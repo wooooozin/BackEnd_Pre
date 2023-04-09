@@ -1,4 +1,4 @@
-package Chapter01;
+package ch01;
 
 public class VariableTest {
 
