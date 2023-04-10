@@ -37,8 +37,9 @@ public class DimensionTest {
 
         for (int[] preNum : testArr) {
             for (int anNum : preNum) {
-                System.out.println(anNum);
+                System.out.print(anNum + " ");
             }
+            System.out.println();
         }
 
     }
