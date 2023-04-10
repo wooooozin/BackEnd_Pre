@@ -42,7 +42,7 @@ public class OperatorTest1 {
 
         // 6. 삼항 연산자
         int num5 = (a > b) ? 1 : 0; // 조건 ? 참 값 : 거짓 값;
-        System.out.println(num5); 
+        System.out.println(num5);
     }
 
 }
