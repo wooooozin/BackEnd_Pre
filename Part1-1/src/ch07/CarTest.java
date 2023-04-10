@@ -15,6 +15,11 @@ public class CarTest {
         // Car2 클래스 사용
         Car myCar2 = new Car("방방이", "ben");
         myCar2.printCarInfo();
+        myCar2.printCarInfo(2000);
+
+        // static
+        System.out.println(Car.serialNum);
+        Car.getSerialNum();
     }
 
 }
