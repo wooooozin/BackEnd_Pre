@@ -17,7 +17,7 @@ public class Chapter5 {
 	}
 	
 	public void getAge() {
-		this.maxNumber(age1, age)
+		this.maxNumber(age1, age);
 		System.out.println(age);
 	}
 
