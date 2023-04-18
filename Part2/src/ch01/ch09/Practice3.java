@@ -1,7 +1,6 @@
-package ch01.ch09_1;
+package ch01.ch09;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Practice3 {
     // 기본
