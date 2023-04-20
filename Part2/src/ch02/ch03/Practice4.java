@@ -118,6 +118,6 @@ public class Practice4 {
         list.showData();
 
         list.removeData(2);
-        list.showData();å
+        list.showData();
     }
 }
