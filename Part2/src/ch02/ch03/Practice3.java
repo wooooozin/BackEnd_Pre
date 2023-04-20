@@ -17,9 +17,6 @@ class CircularLinkedList {
         }
         return false;
     }
-    // 연결리스트에 데이터 추가
-    // before_data가 null 인 경우, 가장 뒤에 추가
-    // before_data가 값이 없다면, 해당 값을 가진노드 앞에 추가
     public void addData(int data, Integer beforeData) {
         if (this.head == null) {
             this.head = new NodeBi(data, null, null);
