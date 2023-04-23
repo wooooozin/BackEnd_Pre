@@ -1,0 +1,19 @@
+html, body {
+    height: 100000px;
+}
+
+div {
+    position: sticky;
+    top: 0px;
+    left: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+div span {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: white;
+}
