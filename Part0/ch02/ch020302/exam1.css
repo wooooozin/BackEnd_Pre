@@ -1,0 +1,19 @@
+.flex {
+    display: flex;
+}
+
+div {
+    display: inline-block;
+}
+
+.div1 {
+    background-color: red;
+}
+
+.div2 {
+    background-color: blue;
+}
+
+.div3 {
+    background-color: green;
+}
