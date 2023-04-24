@@ -1,3 +1,4 @@
+package ch19;
 
 public class Practice4 {
     public static String solution(int[] keyLog) {
