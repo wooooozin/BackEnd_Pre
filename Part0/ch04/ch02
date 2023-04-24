@@ -1,0 +1,14 @@
+// 선언
+let lang;
+
+// 할당
+lnag = 'JS';
+
+// 재 할당
+lang = 'asdasd';
+
+
+// 선언과 동시에 할당
+let js = 'JavaScript'
+
+console.log(js);
