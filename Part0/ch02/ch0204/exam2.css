@@ -1,0 +1,38 @@
+/* *: 전체 선택자 */ 
+
+/*
+* { 
+    color: red;
+}
+
+.box * {
+    font-size: 40px;
+}
+*/
+
+/* 
+
+.box .text1 {
+    color: red;
+}
+
+.box .text2 {
+    color: blueviolet
+}
+*/
+
+#container {
+    color: brown;
+}
+
+input[type="text"] {
+    border-radius: 10px;
+}
+
+img[alt] {
+    color: blue;
+}
+
+.box {
+    font-size: 20px;
+}
